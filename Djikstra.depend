@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521050241 source:c:\projects\djikstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+
