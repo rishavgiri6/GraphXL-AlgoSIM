@@ -1,2 +1,2 @@
-# ProjectCollege
-Contains my school or collegiate level project source codes.
+# GraphAlgorithms
+Contains my school or collegiate level graph/greedy/dynamic source codes.
